@@ -1,2 +1,2 @@
-#Haunted Mansion
+# Haunted Mansion
 A reinforcement learning model.
